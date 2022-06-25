@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285581684177",
+    "project_id": "audit-af0c4",
+    "storage_bucket": "audit-af0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285581684177:android:589cf83634ddccdb7f04f0",
+        "android_client_info": {
+          "package_name": "com.ta_ridho.audit_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285581684177-h64ubakbrd3mina4m5kpl4fmv42s5pbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm2S8xOEiz0NE-9FxMBe6aPc3j4ggTVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285581684177-h64ubakbrd3mina4m5kpl4fmv42s5pbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
